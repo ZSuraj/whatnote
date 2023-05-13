@@ -1,0 +1,30 @@
+.before-total {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    color: #A1A1A1;
+}
+
+.after-total {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    color: #1B1B1B;
+}
+
+.pay-btn {
+    background: linear-gradient(98.44deg, #F54874 52.42%, #EC008C 107.37%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 34px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #FFFFFF;
+}
